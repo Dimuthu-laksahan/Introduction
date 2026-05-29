@@ -147,6 +147,7 @@ Recommended technical documentation to add:
 ## 🖼️ Screenshots
 
 > Add visuals after implementation milestones.
+> Ensure the `docs/screenshots/` directory exists before adding image assets.
 
 - `Placeholder: docs/screenshots/home.png` — Home screen
 - `Placeholder: docs/screenshots/feature-flow.png` — Primary feature flow
