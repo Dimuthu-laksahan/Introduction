@@ -2,8 +2,8 @@
 
 [![Repository Status](https://img.shields.io/badge/status-active-success?style=for-the-badge)](https://github.com/Dimuthu-laksahan/Introduction)
 [![Documentation](https://img.shields.io/badge/docs-README-blue?style=for-the-badge)](./README.md)
-[![Contributions](https://img.shields.io/badge/contributions-welcome-brightgreen?style=for-the-badge)](./CONTRIBUTING.md)
-[![License](https://img.shields.io/badge/license-MIT-informational?style=for-the-badge)](./LICENSE)
+[![Contributions](https://img.shields.io/badge/contributions-welcome-brightgreen?style=for-the-badge)](#-contributing)
+[![License](https://img.shields.io/badge/license-MIT-informational?style=for-the-badge)](#-license)
 
 > A professionally structured starter README for the **Introduction** project.  
 > Replace placeholder values with your real project details.
@@ -148,9 +148,9 @@ Recommended technical documentation to add:
 
 > Add visuals after implementation milestones.
 
-![Home Screen Placeholder](./docs/screenshots/home.png)
-![Feature Flow Placeholder](./docs/screenshots/feature-flow.png)
-![Dashboard Placeholder](./docs/screenshots/dashboard.png)
+- `docs/screenshots/home.png` — Home screen
+- `docs/screenshots/feature-flow.png` — Primary feature flow
+- `docs/screenshots/dashboard.png` — Dashboard/analytics page
 
 ---
 
