@@ -148,9 +148,9 @@ Recommended technical documentation to add:
 
 > Add visuals after implementation milestones.
 
-- `docs/screenshots/home.png` — Home screen
-- `docs/screenshots/feature-flow.png` — Primary feature flow
-- `docs/screenshots/dashboard.png` — Dashboard/analytics page
+- `Placeholder: docs/screenshots/home.png` — Home screen
+- `Placeholder: docs/screenshots/feature-flow.png` — Primary feature flow
+- `Placeholder: docs/screenshots/dashboard.png` — Dashboard/analytics page
 
 ---
 
@@ -185,7 +185,7 @@ Please ensure:
 ## 📄 License
 
 This project is licensed under the **MIT License**.  
-Create a `LICENSE` file if it does not yet exist.
+Create a `LICENSE` file in the repository root if it does not yet exist.
 
 ---
 
